@@ -1,0 +1,26 @@
+{
+  "name": "pizza-war",
+  "version": "1.0.0",
+  "description": "Pizza War Game in Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-css": "./bin/build-css",
+    "watch-css": "./bin/watch-css",
+    "start" : "npm run watch-css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dfelipegaitanh/pizza-war.git"
+  },
+  "author": "Felipe Gaitan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dfelipegaitanh/pizza-war/issues"
+  },
+  "homepage": "https://github.com/dfelipegaitanh/pizza-war#readme",
+  "devDependencies": {
+    "node-sass": "^7.0.1",
+    "nodemon": "^2.0.15"
+  }
+}
