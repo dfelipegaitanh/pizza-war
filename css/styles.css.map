@@ -1,1 +1,1 @@
-{"version":3,"sourceRoot":"","sources":[],"names":[],"mappings":"","file":"styles.css"}
+{"version":3,"sourceRoot":"","sources":["../resources/scss/_base.scss","../resources/scss/variables.scss","../resources/scss/_game.scss"],"names":[],"mappings":"AAAA;EACE;;;AAGF;EACE,YCDgB;EDEhB;EACA;EACA;;;AENA;EACE;EACA;EACA;EACA,SDEgB;ECDhB;EAEA;;AAEA;EACE","file":"styles.css"}

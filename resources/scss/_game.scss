@@ -1,0 +1,21 @@
+.game {
+
+  &--container {
+    position: relative;
+    width: 352px;
+    height: 198px;
+    outline: $container-outline;
+    margin: 0 auto;
+    // margin-top: $container-margin-top;
+    transform: scale($container-transform-scale) translateY(50%);
+
+    canvas {
+      image-rendering: pixelated;
+    }
+  }
+
+  &--canvas {
+    // background: $color-yellow;
+  }
+
+}
